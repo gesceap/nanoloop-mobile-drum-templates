@@ -18,3 +18,8 @@ There are a mix of drum loops and drum hits.
 | Template_Funky.nan    | X |   | James Brown - The Funky Drummer |
 | Template_LinnDrum.nan |   | X | Linn Electronics LinnDrum |
 | Template_Think.nan    | X |   | Lyn Collins - Think (About It) |
+
+# Download
+
+
+[https://github.com/gesceap/nanoloop_mobile_drum_templates/archive/main.zip](https://github.com/gesceap/nanoloop_mobile_drum_templates/archive/main.zip)
