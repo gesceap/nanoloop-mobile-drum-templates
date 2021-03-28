@@ -22,4 +22,4 @@ There are a mix of drum loops and drum hits.
 # Download
 
 
-[https://github.com/gesceap/nanoloop_mobile_drum_templates/archive/main.zip](https://github.com/gesceap/nanoloop_mobile_drum_templates/archive/main.zip)
+[https://github.com/gesceap/nanoloop-mobile-drum-templates/archive/main.zip](https://github.com/gesceap/nanoloop-mobile-drum-templates/archive/main.zip)
